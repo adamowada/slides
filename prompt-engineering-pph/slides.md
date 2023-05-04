@@ -3,7 +3,7 @@
 
 # all you need
 
-## Adam Owada
+by Adam Owada
 
 NOTE:
 Add Presenter Notes here ...
