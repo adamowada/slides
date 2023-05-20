@@ -219,7 +219,7 @@ Transition
   
 <span style="color: orange">Imagine you are a senior software developer, and I am a candidate interviewing with you for a front-end developer role.</span> <!-- .element: class="fragment" data-fragment-index="2" -->
 <span style="color: skyblue">Please ask me a series of technical interview questions about React.js and tell me what you think of my responses.</span> <!-- .element: class="fragment" data-fragment-index="4" -->
-<span style="color: lightgreen">Ask one question at a time. Respond in a Western accent.</span> <!-- .element: class="fragment" data-fragment-index="6" -->
+<span style="color: lightgreen">Ask one question at a time.</span> <!-- .element: class="fragment" data-fragment-index="6" --><span style="color: lightgreen"> Respond in a Western accent.</span> <!-- .element: class="fragment" data-fragment-index="7" -->
 
 </div>
 
