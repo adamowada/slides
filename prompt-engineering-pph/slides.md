@@ -42,12 +42,12 @@ Transition
 
 # Agenda
 
-1. What is ChatGPT?
-2. WHYs of Prompt Engineering
-3. Understanding ChatGPT
-4. Prompt Engineering Patterns
+- What is ChatGPT?
+- WHYs of Prompt Engineering
+- Understanding ChatGPT
+- Prompt Engineering Patterns
   - Applications of ChatGPT in Software Development and Ops
-6. Q&A
+- Q&A
 
 </div>
 
