@@ -316,6 +316,8 @@ def add_two(num1, num2):
     
 ```
 
+---
+
 <!-- .element class="text-only dark" -->
 # Questions?
 
