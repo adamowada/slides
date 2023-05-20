@@ -289,7 +289,7 @@ Note:
 
 <div>
 
-![python_function](markdown/screen_1.png) <!-- .element: class="fragment" data-fragment-index="5" -->
+![python_function](https://raw.githubusercontent.com/adamowada/slides/main/prompt-engineering-pph/screen_1.png) <!-- .element: class="fragment" data-fragment-index="5" -->
 
 </div>
 
