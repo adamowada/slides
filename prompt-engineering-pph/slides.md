@@ -26,7 +26,7 @@ it's all good. We're going to cover the basics and assumes NO prior knowledge
 Note:
 
 - This is what we're doing today, talking about prompt engineering
-- Formal definition: Prompt engineering is the process of designing and refining input prompts to obtain desired responses from AI models.
+- Formal definition: `Prompt engineering is the process of designing and refining input prompts to obtain desired responses from AI models.`
 - Asking better questions
 - This talk is just my take on prompt engineering, it is one voice of many. No one has a monopoly or mastery on this (came out in December only a few months ago)
 
@@ -103,19 +103,23 @@ Note:
 
 3.
 - Create a free account at chat.openai.com
+! link in zoom chat
 
 4.
 - Let's view in browser:
-  - "New chat" button in upper left
+  - History on the left bar
   - Select gpt-3.5 or gpt-4
     - differences
+  - version at bottom
   - "Send a message"
   ! `what is chatgpt?`
+    - Stop generating
     - shift + enter
     - regenerate
     - edit response
+    - arrows
     - `copy` response
-  - History on the left bar
+    - "New chat" button in upper left
   - 3 dots for options:
 
 Transition
@@ -242,7 +246,7 @@ Note:
 
 # Conversational Funnel
 
-- When you don't know what exact question you need to ask 
+- When you don't know what exact question you need to ask
 - Broad -> narrow <!-- .element: class="fragment" data-fragment-index="1" -->
 - Ask follow up questions <!-- .element: class="fragment" data-fragment-index="3" -->
 - Series of prompts <!-- .element: class="fragment" data-fragment-index="5" -->
@@ -252,8 +256,8 @@ Note:
 
 <div>
 
-1. What's pfSense? <!-- .element: class="fragment" data-fragment-index="2" -->
-2. What do you mean by a firewall? <!-- .element: class="fragment" data-fragment-index="4" -->
+1. What is a firewall? <!-- .element: class="fragment" data-fragment-index="2" -->
+2. How does it examine network packets? <!-- .element: class="fragment" data-fragment-index="4" -->
 3. Please explain a firewall with an analogy <!-- .element: class="fragment" data-fragment-index="6" -->
 4. Imagine you are a cybersecurity professional. When would you recommend using a firewall like pfSense? Please also respond with a table showing the pros and cons. <!-- .element: class="fragment" data-fragment-index="8" -->
 
