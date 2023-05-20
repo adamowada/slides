@@ -1,7 +1,7 @@
 <!-- .element class="main-title" -->
 
 # Harnessing ChatGPT:
-### Prompt Engineering for Developers
+### Prompt Engineering for Developers and Ops
 
 #
 #
