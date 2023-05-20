@@ -14,7 +14,7 @@ Note:
 
 Transition
 - ? Give me a zoom reaction or put in chat: Who's used ChatGPT before?
-- Even if you're new to code or ops and you've never heard of ChatGPT before
+- Even if you're new to code or ops if you've never heard of ChatGPT before
 it's all good. We're going to cover the basics and assumes NO prior knowledge
 - ! Ops people too!
 
@@ -24,13 +24,14 @@ it's all good. We're going to cover the basics and assumes NO prior knowledge
 ## - Penelope Trunk, <span style="color: orange">2007</span> <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:
+
 - This is what we're doing today, talking about prompt engineering
 - Formal definition: Prompt engineering is the process of designing and refining input prompts to obtain desired responses from AI models.
 - Asking better questions
-- This is my work, this is just my take on prompt engineering, it is one voice of many. No one has a monopoly
+- This talk is just my take on prompt engineering, it is one voice of many. No one has a monopoly or mastery on this (came out in December only a few months ago)
 
 Transition
-- But let's not get ahead of ourselves, we have some groundwork to cover
+- But let's not get ahead of ourselves, we have a lot of groundwork to cover
 - Let's talk about our Agenda today
 
 ---
@@ -45,7 +46,7 @@ Transition
 2. WHYs of Prompt Engineering
 3. Understanding ChatGPT
 4. Prompt Engineering Patterns
-5. Applications of ChatGPT in Software Development and Ops
+  - Applications of ChatGPT in Software Development and Ops
 6. Q&A
 
 </div>
@@ -54,8 +55,8 @@ Transition
 
 # Links: <!-- .element: class="fragment" data-fragment-index="1" -->
 
-<li> www.github.com </li> <!-- .element: class="fragment" data-fragment-index="1" -->
-<li> reveal link </li> <!-- .element: class="fragment" data-fragment-index="1" -->
+<li> github.com/adamowada/slides </li> <!-- .element: class="fragment" data-fragment-index="1" -->
+<li> Will send out reveal.js link </li> <!-- .element: class="fragment" data-fragment-index="1" -->
 
 </div>
 
@@ -65,7 +66,13 @@ Note:
 - By the way, using reveal.js for the presentation, and you can view all of this later on at your own leisure
 - ! Put links in slack and zoom
 
-- Questions along the way:
+Prompt Engineering PPH Links:
+
+https://github.com/adamowada/slides/tree/main
+ 
+https://codefellows.github.io/common_curriculum/slides/template/index.html?slides=https://adamowada.github.io/slides/prompt-engineering-pph/slides.md
+
+- `!` Questions along the way:
   - Raise hand
   - Use chat
   - Unmute
@@ -214,7 +221,6 @@ Transition
 <span style="color: skyblue">Please ask me a series of technical interview questions about React.js and tell me what you think of my responses.</span> <!-- .element: class="fragment" data-fragment-index="4" -->
 <span style="color: lightgreen">Ask one question at a time. Respond in a Western accent.</span> <!-- .element: class="fragment" data-fragment-index="6" -->
 
-
 </div>
 
 Note:
@@ -222,13 +228,11 @@ Note:
 - The `Who what how` method is fundamental and forms the backbone of the other patterns
 - Because either you define these in the prompt or ChatGPT uses its default (tries to be a helpful agent)
 
-
 - Here's the insight: ChatGPT is trying to predict a conversation.
 - Can use multiple sentences.
 - Be specific
 - How formatting can include length of response, type of response, format
 - "Steerability" of ChatGPT
-
 
 ---
 
